@@ -123,7 +123,7 @@ class _FirstPageState extends State<FirstPage> {
                                     color: Colors.deepOrange,
                                     fontSize: 25),
                                 decoration: InputDecoration(
-                                    hintText: "Search another location...",
+                                    hintText: "Search city...",
                                     hintStyle: TextStyle(
                                         backgroundColor: Colors.black26,
                                         color: Colors.deepOrange,
