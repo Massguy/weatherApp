@@ -26,7 +26,7 @@ class _HomeState extends State<Home> {
               backgroundColor: Colors.blue),
           BottomNavigationBarItem(
               icon: Icon(Icons.event_note),
-              title: Text('16 Day forecast'),
+              title: Text('5 Day forecast'),
               backgroundColor: Colors.blue),
         ],
         onTap: (int index) {
